@@ -1,0 +1,28 @@
+.h1 {
+  margin: 20px 0px;
+}
+
+.lookingFor {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.seeAll {
+  color: green;
+  padding: 10px;
+  display: block;
+  text-decoration: none;
+}
+
+.seeAll:hover {
+  background-color: rgb(180, 175, 175);
+  border-radius: 4px;
+}
+
+
+.allSubCatagories {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}

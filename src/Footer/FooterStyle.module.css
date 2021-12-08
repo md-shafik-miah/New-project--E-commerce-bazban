@@ -1,0 +1,22 @@
+.container {
+ display: flex;
+ background-color: white;
+ height: 350px;
+ font-family: Arial, Helvetica, sans-serif;
+ color: #908080;
+}
+
+.column {
+    flex: 1;
+    padding: 50px;
+}
+
+.link {
+    text-decoration: none;
+    display: block;
+    line-height: 50px;
+    color: #4d4a4a;
+}
+.link:hover {
+    color: #06775F;
+}

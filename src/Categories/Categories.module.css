@@ -1,0 +1,32 @@
+.categoriesCard {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+
+.cardMenCat {
+   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+   transition: 0.35;width: 19%;
+   height: 250px;
+   background-color: white;
+   text-align: center;
+   margin: 6px;
+   border-radius: 8px;
+}
+
+.MenCatBody {
+    height: 100px;
+    padding: 15px;
+    font-size: larger;
+}
+
+.MenCatBtn {
+  width: 100%;
+  padding: 5px;
+  margin-top: 5px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  outline: none;
+  background-color: white;
+  font-size: 20px;
+}
